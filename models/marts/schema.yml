@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: dim_sections
+    description: "جدول الأبعاد الخاص بتفاصيل وأطوال الطرق الثابتة"
+    columns:
+      - name: section_id
+        description: "المعرف الفرعي لكل جزء من الطريق"
+        tests:
+          - not_null
+
+  - name: dim_weather_stations
+    description: "جدول الأبعاد الخاص بمحطات الطقس"
+    columns:
+      - name: station_id
+        description: "المعرف الفرعي لمحطة الطقس"
+        tests:
+          - not_null
+
+  - name: fct_traffic_events
+    description: "جدول الحقائق الرئيسي الذي يجمع الأحداث المرورية وتأثير الطقس والصيانة"
+    columns:
+      - name: situation_id
+        description: "معرف حالة المرور أو البلاغ"
+        tests:
+          - not_null
+      - name: start_time
+        description: "وقت بداية الحدث المروري"
+        tests:
+          - not_null

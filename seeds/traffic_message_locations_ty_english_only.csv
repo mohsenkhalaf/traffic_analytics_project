@@ -1,0 +1,109 @@
+﻿id;subtypecode;descriptionen
+1;a1.0;continent
+2;a2.0;country group
+3;a3.0;country
+4;a5.0;water area
+5;a5.1;sea
+6;a5.2;lake
+7;a6.0;fuzzy area
+8;a6.1;tourist area
+9;a6.2;metropolitan area
+10;a6.3;industrial area
+11;a6.4;traffic area
+12;a6.5;meteorological area
+13;a6.6;carpool area
+14;a6.7;park and ride site
+15;a6.8;car park area
+16;a7.0;1st order area
+17;a8.0;2nd order area
+18;a9.0;3rd order area
+19;a9.1;3rd order area / rural
+20;a9.2;3rd order area / urban
+21;a10.0;4th order area
+22;a11.0;5th order area
+23;a12.0;application region
+24;l1.1;motorway
+25;l1.2;1st class road
+26;l1.3;2nd class road
+27;l1.4;3rd class road
+28;l2.1;ring motorway
+29;l2.2;other ring-road
+30;l3.0;1st order segment
+31;l4.0;2nd order segment
+32;l5.0;urban street
+33;l6.0;vehicular link
+34;l6.1;ferry
+35;l6.2;vehicular rail link
+36;l7.0;link road
+37;p1.1;motorway intersection
+38;p1.2;motorway triangel
+39;p1.3;motorway junction
+40;p1.4;motorway exit
+41;p1.5;motorway entrance
+42;p1.6;overpass
+43;p1.7;underpass
+44;p1.8;roundabout
+45;p1.10;traffic light
+46;p1.11;cross-roads
+47;p1.12;t-junction
+48;p1.13;intermediate node
+49;p1.14;connection
+50;p1.15;exit
+51;p2.1;distance marker
+52;p2.2;traffic monitoring station
+53;p3.0;other landmark
+54;p3.1;tunnel
+55;p3.2;bridge
+56;p3.3;service area
+57;p3.4;rest area
+58;p3.5;view point
+59;p3.6;carpool point
+60;p3.7;park and ride site
+61;p3.8;car park
+62;p3.9;kiosk
+63;p3.10;kiosk with wc
+64;p3.11;petrol station
+65;p3.12;petrol station with kiosk
+66;p3.13;motel
+67;p3.14;border
+68;p3.15;customs post
+69;p3.16;toll plaza
+70;p3.17;ferry terminal
+71;p3.18;harbour
+72;p3.19;square
+73;p3.20;fair
+74;p3.21;garage
+75;p3.22;underground garage
+76;p3.23;retail park
+77;p3.24;theme park
+78;p3.25;tourist attraction
+79;p3.26;university
+80;p3.27;airport
+81;p3.28;station
+82;p3.29;hospital
+83;p3.30;church
+84;p3.31;stadium
+85;p3.33;castle
+86;p3.34;town hall
+87;p3.35;exhibition/convention centre
+88;p3.36;communities
+89;p3.37;place name
+90;p3.38;dam
+91;p3.39;dike
+92;p3.40;aqueduct
+93;p3.41;lock
+94;p3.42;mountain crossing/pass
+95;p3.43;railroad crossing
+96;p3.44;wade
+97;p3.45;ferry
+98;p3.46;industrial area
+99;p3.47;viadukt
+100;p4.0;link road point
+101;p5.0;parking poi
+102;p5.1;underground parking garage
+103;p5.2;car park
+104;p5.3;parking garage
+105;p5.4;carpool point
+106;p5.5;park and ride site
+107;p5.6;rest area parking
+108;p5.7;campground

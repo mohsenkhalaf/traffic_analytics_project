@@ -1,0 +1,104 @@
+﻿id;name;short_name;unit;direction;accuracy;description
+5016;OHITUKSET_5MIN_KIINTEA_SUUNTA1;kpl/h1;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1 (5 min)
+5019;OHITUKSET_5MIN_KIINTEA_SUUNTA2;kpl/h2;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2 (5 min)
+5022;KESKINOPEUS_5MIN_KIINTEA_SUUNTA1;km/h1;km/h;INCREASING_DIRECTION;;Average speed direction 1 (5 min)
+5025;KESKINOPEUS_5MIN_KIINTEA_SUUNTA2;km/h2;km/h;DECREASING_DIRECTION;;Average speed direction 2 (5 min)
+5054;OHITUKSET_60MIN_KIINTEA_SUUNTA1;kpl/h1;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1 (60 min)
+5055;OHITUKSET_60MIN_KIINTEA_SUUNTA2;kpl/h2;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2 (60 min)
+5056;KESKINOPEUS_60MIN_KIINTEA_SUUNTA1;km/h1;km/h;INCREASING_DIRECTION;;Average speed direction 1 (60 min)
+5057;KESKINOPEUS_60MIN_KIINTEA_SUUNTA2;km/h2;km/h;DECREASING_DIRECTION;;Average speed direction 2 (60 min)
+5058;KESKINOPEUS_5MIN_KIINTEA_SUUNTA1_VVAPAAS1;LTil1;;INCREASING_DIRECTION;;Traffic flow direction 1 (5 min)
+5061;KESKINOPEUS_5MIN_KIINTEA_SUUNTA2_VVAPAAS2;LTil2;;DECREASING_DIRECTION;;Traffic flow direction 2 (5 min)
+5064;OHITUKSET_5MIN_KIINTEA_SUUNTA1_MS1;MTil1;;INCREASING_DIRECTION;;Traffic volume direction 1 (5 min)
+5067;OHITUKSET_60MIN_KIINTEA_SUUNTA1_MS1;MTil1;;INCREASING_DIRECTION;;Traffic volume direction 1 (60 min)
+5068;OHITUKSET_5MIN_KIINTEA_SUUNTA2_MS2;MTil2;;DECREASING_DIRECTION;;Traffic volume direction 2 (5 min)
+5071;OHITUKSET_60MIN_KIINTEA_SUUNTA2_MS2;MTil2;;DECREASING_DIRECTION;;Traffic volume direction 2 (60 min)
+5072;LIUKUVA_NOPEUS_KAISTA_1;vk1;km/h;UNKNOWN;;Speed metric lane 1
+5073;LIUKUVA_NOPEUS_KAISTA_2;vk2;km/h;UNKNOWN;;Speed metric lane 2
+5074;LIUKUVA_NOPEUS_KAISTA_3;vk3;km/h;UNKNOWN;;Speed metric lane 3
+5075;LIUKUVA_NOPEUS_KAISTA_4;vk4;km/h;UNKNOWN;;Speed metric lane 4
+5076;LIUKUVA_NOPEUS_KAISTA_5;vk5;km/h;UNKNOWN;;Speed metric lane 5
+5077;LIUKUVA_NOPEUS_KAISTA_6;vk6;km/h;UNKNOWN;;Speed metric lane 6
+5078;OHITUKSET_5MIN_KIINTEA_KAISTA1;mkk1;kpl/h;UNKNOWN;;Traffic volume metric lane 1 (-5 min)
+5079;OHITUKSET_5MIN_KIINTEA_KAISTA2;mkk2;kpl/h;UNKNOWN;;Traffic volume metric lane 2 (-5 min)
+5080;OHITUKSET_5MIN_KIINTEA_KAISTA3;mkk3;kpl/h;UNKNOWN;;Traffic volume metric lane 3 (-5 min)
+5081;OHITUKSET_5MIN_KIINTEA_KAISTA4;mkk4;kpl/h;UNKNOWN;;Traffic volume metric lane 4 (-5 min)
+5082;OHITUKSET_5MIN_KIINTEA_KAISTA5;mkk5;kpl/h;UNKNOWN;;Traffic volume metric lane 5 (-5 min)
+5083;OHITUKSET_5MIN_KIINTEA_KAISTA6;mkk6;kpl/h;UNKNOWN;;Traffic volume metric lane 6 (-5 min)
+5090;LIUKUVA_NOPEUS_KAISTA_7;vk7;km/h;UNKNOWN;;Speed metric lane 7
+5091;LIUKUVA_NOPEUS_KAISTA_8;vk8;km/h;UNKNOWN;;Speed metric lane 8
+5092;LIUKUVA_NOPEUS_KAISTA_9;vk9;km/h;UNKNOWN;;Speed metric lane 9
+5093;LIUKUVA_NOPEUS_KAISTA_10;vk10;km/h;UNKNOWN;;Speed metric lane 10
+5094;LIUKUVA_NOPEUS_KAISTA_11;vk11;km/h;UNKNOWN;;Speed metric lane 11
+5095;LIUKUVA_NOPEUS_KAISTA_12;vk12;km/h;UNKNOWN;;Speed metric lane 12
+5096;LIUKUVA_NOPEUS_KAISTA_13;vk13;km/h;UNKNOWN;;Speed metric lane 13
+5097;LIUKUVA_NOPEUS_KAISTA_14;vk14;km/h;UNKNOWN;;Speed metric lane 14
+5098;OHITUKSET_5MIN_KIINTEA_KAISTA7;mkk7;kpl/h;UNKNOWN;;Traffic volume metric lane 7 (-5 min)
+5099;OHITUKSET_5MIN_KIINTEA_KAISTA8;mkk8;kpl/h;UNKNOWN;;Traffic volume metric lane 8 (-5 min)
+5100;OHITUKSET_5MIN_KIINTEA_KAISTA9;mkk9;kpl/h;UNKNOWN;;Traffic volume metric lane 9 (-5 min)
+5101;OHITUKSET_5MIN_KIINTEA_KAISTA10;mkk10;kpl/h;UNKNOWN;;Traffic volume metric lane 10 (-5 min)
+5102;OHITUKSET_5MIN_KIINTEA_KAISTA11;mkk11;kpl/h;UNKNOWN;;Traffic volume metric lane 11 (-5 min)
+5103;OHITUKSET_5MIN_KIINTEA_KAISTA12;mkk12;kpl/h;UNKNOWN;;Traffic volume metric lane 12 (-5 min)
+5104;OHITUKSET_5MIN_KIINTEA_KAISTA13;mkk13;kpl/h;UNKNOWN;;Traffic volume metric lane 13 (-5 min)
+5105;OHITUKSET_5MIN_KIINTEA_KAISTA14;mkk14;kpl/h;UNKNOWN;;Traffic volume metric lane 14 (-5 min)
+5106;OHITUKSET_5MIN_LIUKUVA_KAISTA7;mlk7;kpl/h;UNKNOWN;;Traffic volume metric lane 7 (-5 min)
+5107;OHITUKSET_5MIN_LIUKUVA_KAISTA8;mlk8;kpl/h;UNKNOWN;;Traffic volume metric lane 8 (-5 min)
+5108;OHITUKSET_5MIN_LIUKUVA_KAISTA9;mlk9;kpl/h;UNKNOWN;;Traffic volume metric lane 9 (-5 min)
+5109;OHITUKSET_5MIN_LIUKUVA_KAISTA10;mlk10;kpl/h;UNKNOWN;;Traffic volume metric lane 10 (-5 min)
+5110;OHITUKSET_5MIN_LIUKUVA_KAISTA11;mlk11;kpl/h;UNKNOWN;;Traffic volume metric lane 11 (-5 min)
+5111;OHITUKSET_5MIN_LIUKUVA_KAISTA12;mlk12;kpl/h;UNKNOWN;;Traffic volume metric lane 12 (-5 min)
+5112;OHITUKSET_5MIN_LIUKUVA_KAISTA13;mlk13;kpl/h;UNKNOWN;;Traffic volume metric lane 13 (-5 min)
+5113;OHITUKSET_5MIN_LIUKUVA_KAISTA14;mlk14;kpl/h;UNKNOWN;;Traffic volume metric lane 14 (-5 min)
+5116;OHITUKSET_5MIN_LIUKUVA_SUUNTA1;kpl/h1;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1 (-5 min)
+5119;OHITUKSET_5MIN_LIUKUVA_SUUNTA2;kpl/h2;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2 (-5 min)
+5122;KESKINOPEUS_5MIN_LIUKUVA_SUUNTA1;km/h1;km/h;INCREASING_DIRECTION;;Average speed direction 1 (-5 min)
+5125;KESKINOPEUS_5MIN_LIUKUVA_SUUNTA2;km/h2;km/h;DECREASING_DIRECTION;;Average speed direction 2 (-5 min)
+5158;KESKINOPEUS_5MIN_LIUKUVA_SUUNTA1_VVAPAAS1;LTila1;;INCREASING_DIRECTION;;Traffic flow direction 1 (-5 min)
+5161;KESKINOPEUS_5MIN_LIUKUVA_SUUNTA2_VVAPAAS2;LTila2;;DECREASING_DIRECTION;;Traffic flow direction 2 (-5 min)
+5164;OHITUKSET_5MIN_LIUKUVA_SUUNTA1_MS1;MTila1;;INCREASING_DIRECTION;;Traffic volume direction 1 (-5 min)
+5168;OHITUKSET_5MIN_LIUKUVA_SUUNTA2_MS2;MTila2;;DECREASING_DIRECTION;;Traffic volume direction 2 (-5 min)
+5178;OHITUKSET_5MIN_LIUKUVA_KAISTA1;mlk1;kpl/h;UNKNOWN;;Traffic volume metric lane 1 (-5 min)
+5179;OHITUKSET_5MIN_LIUKUVA_KAISTA2;mlk2;kpl/h;UNKNOWN;;Traffic volume metric lane 2 (-5 min)
+5180;OHITUKSET_5MIN_LIUKUVA_KAISTA3;mlk3;kpl/h;UNKNOWN;;Traffic volume metric lane 3 (-5 min)
+5181;OHITUKSET_5MIN_LIUKUVA_KAISTA4;mlk4;kpl/h;UNKNOWN;;Traffic volume metric lane 4 (-5 min)
+5182;OHITUKSET_5MIN_LIUKUVA_KAISTA5;mlk5;kpl/h;UNKNOWN;;Traffic volume metric lane 5 (-5 min)
+5183;OHITUKSET_5MIN_LIUKUVA_KAISTA6;mlk6;kpl/h;UNKNOWN;;Traffic volume metric lane 6 (-5 min)
+5184;OHITUKSET_3MIN_LIUKUVA_KAISTA1;mlk1;kpl/h;UNKNOWN;;Traffic volume metric lane 1 (-3 min)
+5185;OHITUKSET_3MIN_LIUKUVA_KAISTA2;mlk2;kpl/h;UNKNOWN;;Traffic volume metric lane 2 (-3 min)
+5186;OHITUKSET_3MIN_LIUKUVA_KAISTA3;mlk3;kpl/h;UNKNOWN;;Traffic volume metric lane 3 (-3 min)
+5187;OHITUKSET_3MIN_LIUKUVA_KAISTA4;mlk4;kpl/h;UNKNOWN;;Traffic volume metric lane 4 (-3 min)
+5188;OHITUKSET_3MIN_LIUKUVA_KAISTA5;mlk5;kpl/h;UNKNOWN;;Traffic volume metric lane 5 (-3 min)
+5189;OHITUKSET_3MIN_LIUKUVA_KAISTA6;mlk6;kpl/h;UNKNOWN;;Traffic volume metric lane 6 (-3 min)
+5190;OHITUKSET_5MIN_LIUKUVA_YHTEENSÄ;kpl/h;kpl/h;UNKNOWN;;Total vehicle count (-5 min)
+5191;OHITUKSET_60MIN_KIINTEA_SUUNTA1_LUOKKA2;kpl/h;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1, class 2 (60 min)
+5192;OHITUKSET_60MIN_KIINTEA_SUUNTA2_LUOKKA2;kpl/h;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2, class 2 (60 min)
+5193;OHITUKSET_60MIN_KIINTEA_SUUNTA1_LUOKKA4;kpl/h;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1, class 4 (60 min)
+5194;OHITUKSET_60MIN_KIINTEA_SUUNTA2_LUOKKA4;kpl/h;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2, class 4 (60 min)
+5195;OHITUKSET_60MIN_KIINTEA_SUUNTA1_LUOKKA5;kpl/h;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1, class 5 (60 min)
+5196;OHITUKSET_60MIN_KIINTEA_SUUNTA2_LUOKKA5;kpl/h;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2, class 5 (60 min)
+5197;OHITUKSET_60MIN_KIINTEA_SUUNTA1_LUOKAT245;rali/h;kpl/h;INCREASING_DIRECTION;;Vehicle count direction 1, classes 2,4,5 (60 min)
+5198;OHITUKSET_60MIN_KIINTEA_SUUNTA2_LUOKAT245;rali/h;kpl/h;DECREASING_DIRECTION;;Vehicle count direction 2, classes 2,4,5 (60 min)
+5237;OHITUKSET_3MIN_LIUKUVA_KAISTA7;mlk7;kpl/h;UNKNOWN;;Traffic volume metric lane 7 (-3 min)
+5238;OHITUKSET_3MIN_LIUKUVA_KAISTA8;mlk8;kpl/h;UNKNOWN;;Traffic volume metric lane 8 (-3 min)
+5239;OHITUKSET_3MIN_LIUKUVA_KAISTA9;mlk9;kpl/h;UNKNOWN;;Traffic volume metric lane 9 (-3 min)
+5240;OHITUKSET_3MIN_LIUKUVA_KAISTA10;mlk10;kpl/h;UNKNOWN;;Traffic volume metric lane 10 (-3 min)
+5241;OHITUKSET_3MIN_LIUKUVA_KAISTA11;mlk11;kpl/h;UNKNOWN;;Traffic volume metric lane 11 (-3 min)
+5242;OHITUKSET_3MIN_LIUKUVA_KAISTA12;mlk12;kpl/h;UNKNOWN;;Traffic volume metric lane 12 (-3 min)
+5243;OHITUKSET_3MIN_LIUKUVA_KAISTA13;mlk13;kpl/h;UNKNOWN;;Traffic volume metric lane 13 (-3 min)
+5244;OHITUKSET_3MIN_LIUKUVA_KAISTA14;mlk14;kpl/h;UNKNOWN;;Traffic volume metric lane 14 (-3 min)
+5245;HITAIN_5MIN_LIUKUVA_SUUNTA1;km/h1;km/h;INCREASING_DIRECTION;;
+5246;HITAIN_5MIN_LIUKUVA_SUUNTA2;km/h2;km/h;DECREASING_DIRECTION;;
+5301;LIUKUVAN_NOPEUDEN_MINIMI_SUUNTA1;vkmiS1;km/h;INCREASING_DIRECTION;;
+5302;LIUKUVAN_NOPEUDEN_MINIMI_SUUNTA2;vkmiS2;km/h;DECREASING_DIRECTION;;Produces lane-by-lane calculated minimum Vk-value after each vehicle crossing
+6001;SUUNTA1;Suun1;Nimi;INCREASING_DIRECTION;;Major city/location in direction 1
+6002;SUUNTA2;Suun2;Nimi;DECREASING_DIRECTION;;Major city/location in direction 2
+6003;TIEN_SUUNTA;Tsuun;;UNKNOWN;;Road direction towards 1 in degrees for map displays.
+20001;NOPEUSSUOSITUS;NopSu;km/h;UNKNOWN;;Speed recommendation
+30001;INFOMERKKI_VAROITUS;INFOMERKKI_VAROITUS;;UNKNOWN;;
+30003;INFOMERKKI_TEKSTI1;INFOMERKKI_TEKSTI1;;UNKNOWN;;
+30005;INFOMERKKI_TEKSTI2;INFOMERKKI_TEKSTI2;;UNKNOWN;;
+50001;KERUULUOKKA;KERUULUOKKA;;UNKNOWN;;Collection interval 1=A, 2=B, 3=C, 4=D, 5=E
+60000;TILA;Tila;;UNKNOWN;;Station status in quality information system. 0=OK
+60002;A_KERUUTILA;A_KER;;UNKNOWN;;Station collection status: See value equivalents table
+60003;K_KERUUTILA;K_KER;;UNKNOWN;;Collection process status (0=started, 1=active, -1=legally stopped)
+100000;HALYTYSTASO;HALYTYSTASO;;UNKNOWN;;

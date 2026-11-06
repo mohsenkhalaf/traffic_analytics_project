@@ -1,0 +1,28 @@
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+profiles.yml
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
